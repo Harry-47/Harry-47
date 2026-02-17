@@ -15,7 +15,8 @@ I'm a **Computer Science Undergrad** and a passionate **MERN Stack Developer**. 
 ---
 
 ### Featured Projects 👷🛒
-- **[Full-Stack-Projects](https://github.com/Harry-47/Full-Stack-Projects):** A monorepo featuring my **Employee Management System** and **E-commerce Platform**. Focused on secure JWT auth and React Query optimization.
+- **[Full-Stack-Projects (MERN)](https://github.com/Harry-47/Full-Stack-Projects-MERN):** A monorepo featuring my **Employee Management System** and **E-commerce Platform**. Focused on secure JWT auth and React Query optimization.
+- **[Full-Stack-Projects (Next JS)](https://github.com/Harry-47/Full-Stack-Projects-NEXT.js):** A monorepo featuring my **AI Detection & Verification System**.Focused on secure JWT auth, SEO , scalability, performance and React Query optimization.
 - **[Vanilla-JS-Projects](https://github.com/Harry-47/Vanilla-JS-Projects):** A monorepo featuring my all the projects made using plain-JS during learning phase
 - **[React-Projects](https://github.com/Harry-47/React-Projects):** A monorepo featuring my all the projects made using **React JS** *frontend only* during learning phase
 
